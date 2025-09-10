@@ -1,3 +1,6 @@
+Idea of Snappy - While working on a project where I had to watch videos and take snaps of the changes of the frames of the video, it was tedious started off with a small length video and realised what would happen if it was a bit longer. Came the idea of automation. Started prompting gpt and developed the code. With hours of prompting and torubleshooting made it to work.
+
+
 Video Frame Snapshot Detector
 Automatically captures snapshots when video frames change significantly. Perfect for presentations, tutorials, and animated content.
 
