@@ -1,6 +1,9 @@
 Idea of Snappy - While working on a project where I had to watch videos and take snaps of the changes of the frames of the video, it was tedious started off with a small length video and realised what would happen if it was a bit longer. Came the idea of automation. Started prompting gpt and developed the code. With hours of prompting and torubleshooting made it to work.
 
-
+there are 3 .py files 
+1) video_snapshot_detector.py - will just take the snapshots
+2) video_snapshot_to_ppt.py - will take the snapshots as well as generate a ppt file with corresponding timestamps ( just in case)
+3) video_snaps_pp2.py - will take the snapshots as well as generate a ppt file 
 Video Frame Snapshot Detector
 Automatically captures snapshots when video frames change significantly. Perfect for presentations, tutorials, and animated content.
 
